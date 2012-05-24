@@ -1,0 +1,24 @@
+The proposed problem aims at coding a swype logic. This is a well known app available for the latest smartphones to make texting as easy as you would ever imagine. 
+
+I have written the code in c. But, it is slightly messed up. I will udpate the code at the earliest. Meanwhile, if you happen to take a look at it, Please leave some comments.
+
+I have used countElementsOfRow to store the total number of traversals of each character in a particular row, when swyped across a single row. Initially the array would be initialized to 0.
+
+For example if the row is :
+row = " qwertyuiop"
+swyped string = "qwertyuytrertyuytre"
+The suggestion should be "queue"
+
+This can be accounted using the countElementsOfRow array.
+If the swyped string is traversing a single row and number of traversals is more than 1 character, I make use of this countElementsOfRow array. 
+
+So it would work like this. countElementsOfRow[0][q]=1, countElementsOfRow[0][w]=1, similarly
+countElementsOfRow[0][y]=1 and countElementsOfRow[0][u]=1.
+Now next character is y. So I am flipping the value of countElementsOfRow[0][y]=!countElementsOfRow[0][y] which is 0 now. 
+
+Then, I add 'u' as one of the character into the suggestedString. 
+suggestedString[j]=givenString[i] ( which is 'u' here )
+
+
+Thanks
+chandan
