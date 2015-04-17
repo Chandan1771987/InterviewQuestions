@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/DataAnalyser.iml" filepath="$PROJECT_DIR$/DataAnalyser.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../FindMin/FindMin.iml" filepath="$PROJECT_DIR$/../FindMin/FindMin.iml" />
+    </modules>
+  </component>
+</project>
+

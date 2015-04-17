@@ -1,0 +1,18 @@
+1. Design ChessBoard Completely such that you should be able to perform atleast one 
+   complete move between the two players. 
+
+2. Design Google Maps
+
+3. Design Namma Tube similar to YouTube. 
+
+4. Design FlipKart.com. 
+
+5. Whenever the user loads the game , userID and timeStamps are logged into the File. How will you come up with a design
+   to yield the number of users who have logged on in the last 60 minutes. 
+
+5. Design Online DVD Library App.
+
+6. Assume that the logFile is dumped with userID and productID whenever he opens the page. 
+   Design the solution such that Top viewed 3Product Sequence can be found. 
+   
+   

@@ -1,0 +1,20 @@
+
+PROTON PATTERN MATCHING ANALYSIS WITH TOLERANCE LEVEL OF 65
+Target Type : PROTON TORPEDOS
+Coordinates : x -11 y - 20
+Degree of Confidence - 65
+Target Type : PROTON TORPEDOS
+Coordinates : x -11 y - 23
+Degree of Confidence - 65
+Target Type : PROTON TORPEDOS
+Coordinates : x -35 y - 28
+Degree of Confidence - 65
+Target Type : PROTON TORPEDOS
+Coordinates : x -36 y - 4
+Degree of Confidence - 65
+
+SPACESHIP PATTERN MATCHING ANALYSIS WITH TOLERANCE LEVEL OF 64
+Target Type : SPACESHIP 
+Coordinates : x -19 y - 31
+Degree of Confidence - 64
+
